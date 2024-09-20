@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jokes | Tell me a Joke</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="./jokes.js" defer></script>
+    <script src="./main.js" defer></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="joke-content">
+        <div class="author">
+          <img src="./ano.png" alt="user_avatar"/>
+          <div class="name">
+            <p class="username">The Anonymous</p>
+            <p class="userid">@anonymous</p>
+          </div>
+        </div>
+        <div class="content">
+          <p id="joke-text">
+            such an empty!
+          </p>
+          <button id="copyBtn"><i class="fa-solid fa-copy"></i></button>
+        </div>
+      </div>
+      <button id="randomJokeBtn"> <i class="fa-solid fa-dice"></i>Random Joke</button>
+    </div>
+  </body>
+</html>
