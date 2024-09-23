@@ -12,6 +12,5 @@ Welcome to **Tell Me a Joke**, where laughter is just a click away! This webpage
 Because life is too short to be serious! Plus, laughter is the best medicine—unless you have a bad joke; then, it's just a pill that needs better timing.
 
 ### Webpage URL
-<a href="https://your-joke-webpage-url.com" target="_blank">Visit Tell Me a Joke</a>
-
+[Visit Tell Me a Joke](https://arjunmalpani.github.io/TellMeAJoke/)
 Come for the jokes, stay for the giggles! And remember, if you can't laugh at yourself, give me a call; I have a few jokes just for you! 🎉
